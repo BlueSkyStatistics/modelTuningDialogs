@@ -3,7 +3,9 @@ const nav = {
     "tab": "model_tuning",
     "buttons": [
         "./bootstrapResampling",
-        "./kFoldCrossValidation"
+        "./kFoldCrossValidation",
+        "./leaveOneOutCrossValidation",
+        "./repkFoldCrossValidation"
     ]
 }
 
